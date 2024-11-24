@@ -8,7 +8,7 @@ The original dataset can be found [here](https://github.com/rfordatascience/tidy
 
 ## Changes made
 
-The only pre-processing step applied was replacing the encoded values in the `milk` column with their respective values.
+First I replace the encoded values in the `milk` column with their respective values.
 
 - `0` $\rightarrow$ 'No Milk',
 - `1` $\rightarrow$ 'Non-fat Milk',
@@ -16,5 +16,7 @@ The only pre-processing step applied was replacing the encoded values in the `mi
 - `3` $\rightarrow$ 'Soy Milk',
 - `4` $\rightarrow$ 'Coconut Milk',
 - `5` $\rightarrow$ 'Whole Milk'
+
+I also split the product names to get the main product, not a "subproduct", I also convert the product names to title case just for appearances.
 
 The cleaning was performed in [this notebook](book.ipynb).

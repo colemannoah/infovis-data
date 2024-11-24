@@ -1,20 +1,20 @@
 product_name,size,milk,whip,serv_size_m_l,calories,total_fat_g,saturated_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,total_carbs_g,fiber_g,sugar_g,caffeine_mg
-brewed coffee - dark roast,short,No Milk,0,236,3,0.1,0.0,0.0,0,5,0,0,0,130
-brewed coffee - dark roast,tall,No Milk,0,354,4,0.1,0.0,0.0,0,10,0,0,0,193
-brewed coffee - dark roast,grande,No Milk,0,473,5,0.1,0.0,0.0,0,10,0,0,0,260
-brewed coffee - dark roast,venti,No Milk,0,591,5,0.1,0.0,0.0,0,10,0,0,0,340
-brewed coffee - decaf pike place roast,short,No Milk,0,236,3,0.1,0.0,0.0,0,5,0,0,0,15
-brewed coffee - decaf pike place roast,tall,No Milk,0,354,4,0.1,0.0,0.0,0,10,0,0,0,20
-brewed coffee - decaf pike place roast,grande,No Milk,0,473,5,0.1,0.0,0.0,0,10,0,0,0,25
-brewed coffee - decaf pike place roast,venti,No Milk,0,591,5,0.1,0.0,0.0,0,10,0,0,0,30
-brewed coffee - medium roast,short,No Milk,0,236,3,0.1,0.0,0.0,0,5,0,0,0,155
-brewed coffee - medium roast,tall,No Milk,0,354,4,0.1,0.0,0.0,0,5,0,0,0,235
-brewed coffee - medium roast,grande,No Milk,0,473,5,0.1,0.0,0.0,0,5,0,0,0,310
-brewed coffee - medium roast,venti,No Milk,0,591,5,0.1,0.0,0.0,0,5,0,0,0,410
-brewed coffee - True North Blend Blonde roast,short,No Milk,0,236,3,0.1,0.0,0.0,0,5,0,0,0,180
-brewed coffee - True North Blend Blonde roast,tall,No Milk,0,354,4,0.1,0.0,0.0,0,5,0,0,0,270
-brewed coffee - True North Blend Blonde roast,grande,No Milk,0,473,5,0.1,0.0,0.0,0,5,0,0,0,360
-brewed coffee - True North Blend Blonde roast,venti,No Milk,0,591,5,0.1,0.0,0.0,0,5,0,0,0,475
+Brewed Coffee,short,No Milk,0,236,3,0.1,0.0,0.0,0,5,0,0,0,130
+Brewed Coffee,tall,No Milk,0,354,4,0.1,0.0,0.0,0,10,0,0,0,193
+Brewed Coffee,grande,No Milk,0,473,5,0.1,0.0,0.0,0,10,0,0,0,260
+Brewed Coffee,venti,No Milk,0,591,5,0.1,0.0,0.0,0,10,0,0,0,340
+Brewed Coffee,short,No Milk,0,236,3,0.1,0.0,0.0,0,5,0,0,0,15
+Brewed Coffee,tall,No Milk,0,354,4,0.1,0.0,0.0,0,10,0,0,0,20
+Brewed Coffee,grande,No Milk,0,473,5,0.1,0.0,0.0,0,10,0,0,0,25
+Brewed Coffee,venti,No Milk,0,591,5,0.1,0.0,0.0,0,10,0,0,0,30
+Brewed Coffee,short,No Milk,0,236,3,0.1,0.0,0.0,0,5,0,0,0,155
+Brewed Coffee,tall,No Milk,0,354,4,0.1,0.0,0.0,0,5,0,0,0,235
+Brewed Coffee,grande,No Milk,0,473,5,0.1,0.0,0.0,0,5,0,0,0,310
+Brewed Coffee,venti,No Milk,0,591,5,0.1,0.0,0.0,0,5,0,0,0,410
+Brewed Coffee,short,No Milk,0,236,3,0.1,0.0,0.0,0,5,0,0,0,180
+Brewed Coffee,tall,No Milk,0,354,4,0.1,0.0,0.0,0,5,0,0,0,270
+Brewed Coffee,grande,No Milk,0,473,5,0.1,0.0,0.0,0,5,0,0,0,360
+Brewed Coffee,venti,No Milk,0,591,5,0.1,0.0,0.0,0,5,0,0,0,475
 Caffè Misto,short,Non-fat Milk,0,236,35,0.1,0.1,0.0,0,45,5,0,5,75
 Caffè Misto,short,2% Milk,0,236,50,2.0,1.0,0.1,10,50,5,0,5,75
 Caffè Misto,short,Whole Milk,0,236,70,3.5,2.0,0.1,10,50,5,0,5,75
@@ -35,42 +35,42 @@ Caffè Misto,venti,2% Milk,0,591,130,5.0,2.5,0.2,20,130,13,0,13,195
 Caffè Misto,venti,Whole Milk,0,591,160,9.0,5.0,0.3,25,120,13,0,13,195
 Caffè Misto,venti,Soy Milk,0,591,100,4.0,0.5,0.0,0,100,8,1,6,195
 Caffè Misto,venti,Coconut Milk,0,591,80,5.0,4.5,0.0,0,90,7,0,7,195
-Clover Brewed Coffee - Dark Roast,short,No Milk,0,236,10,0.0,0.0,0.0,0,5,0,0,0,190
-Clover Brewed Coffee - Dark Roast,tall,No Milk,0,354,10,0.0,0.0,0.0,0,10,0,0,0,280
-Clover Brewed Coffee - Dark Roast,grande,No Milk,0,473,10,0.0,0.0,0.0,0,10,0,0,0,380
-Clover Brewed Coffee - Dark Roast,venti,No Milk,0,591,10,0.0,0.0,0.0,0,10,0,0,0,470
-Clover Brewed Coffee -  Light Roast,short,No Milk,0,236,10,0.0,0.0,0.0,0,5,0,0,0,155
-Clover Brewed Coffee -  Light Roast,tall,No Milk,0,354,10,0.0,0.0,0.0,0,10,0,0,0,255
-Clover Brewed Coffee -  Light Roast,grande,No Milk,0,473,10,0.0,0.0,0.0,0,10,0,0,0,340
-Clover Brewed Coffee -  Light Roast,venti,No Milk,0,591,10,0.0,0.0,0.0,0,10,0,0,0,425
-Clover Brewed Coffee - Medium Roast,short,No Milk,0,236,10,0.0,0.0,0.0,0,5,0,0,0,170
-Clover Brewed Coffee - Medium Roast,tall,No Milk,0,354,10,0.0,0.0,0.0,0,10,0,0,0,280
-Clover Brewed Coffee - Medium Roast,grande,No Milk,0,473,10,0.0,0.0,0.0,0,10,0,0,0,375
-Clover Brewed Coffee - Medium Roast,venti,No Milk,0,591,10,0.0,0.0,0.0,0,10,0,0,0,445
+Clover Brewed Coffee,short,No Milk,0,236,10,0.0,0.0,0.0,0,5,0,0,0,190
+Clover Brewed Coffee,tall,No Milk,0,354,10,0.0,0.0,0.0,0,10,0,0,0,280
+Clover Brewed Coffee,grande,No Milk,0,473,10,0.0,0.0,0.0,0,10,0,0,0,380
+Clover Brewed Coffee,venti,No Milk,0,591,10,0.0,0.0,0.0,0,10,0,0,0,470
+Clover Brewed Coffee,short,No Milk,0,236,10,0.0,0.0,0.0,0,5,0,0,0,155
+Clover Brewed Coffee,tall,No Milk,0,354,10,0.0,0.0,0.0,0,10,0,0,0,255
+Clover Brewed Coffee,grande,No Milk,0,473,10,0.0,0.0,0.0,0,10,0,0,0,340
+Clover Brewed Coffee,venti,No Milk,0,591,10,0.0,0.0,0.0,0,10,0,0,0,425
+Clover Brewed Coffee,short,No Milk,0,236,10,0.0,0.0,0.0,0,5,0,0,0,170
+Clover Brewed Coffee,tall,No Milk,0,354,10,0.0,0.0,0.0,0,10,0,0,0,280
+Clover Brewed Coffee,grande,No Milk,0,473,10,0.0,0.0,0.0,0,10,0,0,0,375
+Clover Brewed Coffee,venti,No Milk,0,591,10,0.0,0.0,0.0,0,10,0,0,0,445
 Iced Coffee,tall,No Milk,0,354,60,0.0,0.0,0.0,0,10,15,0,15,120
 Iced Coffee,grande,No Milk,0,473,80,0.1,0.0,0.0,0,10,20,0,20,165
 Iced Coffee,venti,No Milk,0,709,120,0.1,0.0,0.0,0,15,30,0,30,235
 Iced Coffee,trenta,No Milk,0,887,160,0.1,0.0,0.0,0,15,40,0,39,280
-Iced Coffee with milk,tall,Non-fat Milk,0,354,80,0.1,0.0,0.0,0,30,17,0,17,90
-Iced Coffee with milk,tall,2% Milk,0,354,80,1.0,0.5,0.0,5,30,17,0,17,90
-Iced Coffee with milk,tall,Whole Milk,0,354,90,1.5,1.0,0.0,5,30,17,0,17,90
-Iced Coffee with milk,tall,Soy Milk,0,354,80,1.0,0.1,0.0,0,25,16,0,16,90
-Iced Coffee with milk,tall,Coconut Milk,0,354,80,1.0,1.0,0.0,0,25,17,0,16,110
-Iced Coffee with milk,grande,Non-fat Milk,0,473,100,0.1,0.0,0.0,0,35,23,0,23,125
-Iced Coffee with milk,grande,2% Milk,0,473,110,1.5,1.0,0.1,5,40,23,0,23,125
-Iced Coffee with milk,grande,Whole Milk,0,473,120,2.0,1.0,0.1,5,35,23,0,23,125
-Iced Coffee with milk,grande,Soy Milk,0,473,110,1.0,0.1,0.0,0,35,22,0,21,125
-Iced Coffee with milk,grande,Coconut Milk,0,473,100,1.5,1.5,0.0,0,35,22,0,22,150
-Iced Coffee with milk,venti,Non-fat Milk,0,709,160,0.1,0.1,0.0,0,60,35,0,35,170
-Iced Coffee with milk,venti,2% Milk,0,709,170,2.0,1.5,0.1,10,65,35,0,35,170
-Iced Coffee with milk,venti,Whole Milk,0,709,190,3.5,2.0,0.1,10,60,35,0,35,170
-Iced Coffee with milk,venti,Soy Milk,0,709,160,1.5,0.2,0.0,0,55,33,0,32,170
-Iced Coffee with milk,venti,Coconut Milk,0,709,160,2.5,2.0,0.0,0,55,33,0,33,205
-Iced Coffee with milk,trenta,Non-fat Milk,0,887,210,0.2,0.1,0.0,5,70,46,0,46,190
-Iced Coffee with milk,trenta,2% Milk,0,887,230,3.0,1.5,0.1,10,80,46,0,46,190
-Iced Coffee with milk,trenta,Whole Milk,0,887,240,4.5,2.5,0.1,15,75,46,0,46,190
-Iced Coffee with milk,trenta,Soy Milk,0,887,220,2.0,0.3,0.0,0,65,44,1,43,190
-Iced Coffee with milk,trenta,Coconut Milk,0,887,210,3.0,3.0,0.0,0,70,44,0,44,190
+Iced Coffee With Milk,tall,Non-fat Milk,0,354,80,0.1,0.0,0.0,0,30,17,0,17,90
+Iced Coffee With Milk,tall,2% Milk,0,354,80,1.0,0.5,0.0,5,30,17,0,17,90
+Iced Coffee With Milk,tall,Whole Milk,0,354,90,1.5,1.0,0.0,5,30,17,0,17,90
+Iced Coffee With Milk,tall,Soy Milk,0,354,80,1.0,0.1,0.0,0,25,16,0,16,90
+Iced Coffee With Milk,tall,Coconut Milk,0,354,80,1.0,1.0,0.0,0,25,17,0,16,110
+Iced Coffee With Milk,grande,Non-fat Milk,0,473,100,0.1,0.0,0.0,0,35,23,0,23,125
+Iced Coffee With Milk,grande,2% Milk,0,473,110,1.5,1.0,0.1,5,40,23,0,23,125
+Iced Coffee With Milk,grande,Whole Milk,0,473,120,2.0,1.0,0.1,5,35,23,0,23,125
+Iced Coffee With Milk,grande,Soy Milk,0,473,110,1.0,0.1,0.0,0,35,22,0,21,125
+Iced Coffee With Milk,grande,Coconut Milk,0,473,100,1.5,1.5,0.0,0,35,22,0,22,150
+Iced Coffee With Milk,venti,Non-fat Milk,0,709,160,0.1,0.1,0.0,0,60,35,0,35,170
+Iced Coffee With Milk,venti,2% Milk,0,709,170,2.0,1.5,0.1,10,65,35,0,35,170
+Iced Coffee With Milk,venti,Whole Milk,0,709,190,3.5,2.0,0.1,10,60,35,0,35,170
+Iced Coffee With Milk,venti,Soy Milk,0,709,160,1.5,0.2,0.0,0,55,33,0,32,170
+Iced Coffee With Milk,venti,Coconut Milk,0,709,160,2.5,2.0,0.0,0,55,33,0,33,205
+Iced Coffee With Milk,trenta,Non-fat Milk,0,887,210,0.2,0.1,0.0,5,70,46,0,46,190
+Iced Coffee With Milk,trenta,2% Milk,0,887,230,3.0,1.5,0.1,10,80,46,0,46,190
+Iced Coffee With Milk,trenta,Whole Milk,0,887,240,4.5,2.5,0.1,15,75,46,0,46,190
+Iced Coffee With Milk,trenta,Soy Milk,0,887,220,2.0,0.3,0.0,0,65,44,1,43,190
+Iced Coffee With Milk,trenta,Coconut Milk,0,887,210,3.0,3.0,0.0,0,70,44,0,44,190
 Cold Brewed Coffee,tall,No Milk,0,354,2,0.0,0.0,0.0,0,10,0,0,0,150
 Cold Brewed Coffee,grande,No Milk,0,473,3,0.0,0.0,0.0,0,15,0,0,0,200
 Cold Brewed Coffee,venti,No Milk,0,709,4,0.0,0.0,0.0,0,20,0,0,0,300
@@ -79,13 +79,13 @@ Vanilla Sweet Cream Cold Brew,tall,No Milk,0,354,100,6.0,3.5,0.2,20,20,12,0,12,1
 Vanilla Sweet Cream Cold Brew,grande,No Milk,0,473,110,6.0,3.5,0.2,20,25,14,0,14,185
 Vanilla Sweet Cream Cold Brew,venti,No Milk,0,709,200,11.0,7.0,0.3,40,40,24,0,24,275
 Vanilla Sweet Cream Cold Brew,trenta,No Milk,0,887,210,11.0,7.0,0.3,40,45,26,0,26,320
-Espresso - Caffè Americano,short,No Milk,0,236,5,0.0,0.0,0.0,0,5,1,0,0,75
-Espresso - Caffè Americano,tall,No Milk,0,354,10,0.0,0.0,0.0,0,10,1,0,0,150
-Espresso - Caffè Americano,grande,No Milk,0,473,15,0.0,0.0,0.0,0,15,1,0,0,225
-Espresso - Caffè Americano,venti,No Milk,0,591,25,0.0,0.0,0.0,0,10,1,0,0,300
-Espresso - Iced Caffè Americano,tall,No Milk,0,354,10,0.0,0.0,0.0,0,10,2,0,0,150
-Espresso - Iced Caffè Americano,grande,No Milk,0,473,15,0.0,0.0,0.0,0,15,3,0,0,225
-Espresso - Iced Caffè Americano,venti,No Milk,0,709,25,0.0,0.0,0.0,0,20,3,0,0,300
+Espresso,short,No Milk,0,236,5,0.0,0.0,0.0,0,5,1,0,0,75
+Espresso,tall,No Milk,0,354,10,0.0,0.0,0.0,0,10,1,0,0,150
+Espresso,grande,No Milk,0,473,15,0.0,0.0,0.0,0,15,1,0,0,225
+Espresso,venti,No Milk,0,591,25,0.0,0.0,0.0,0,10,1,0,0,300
+Espresso,tall,No Milk,0,354,10,0.0,0.0,0.0,0,10,2,0,0,150
+Espresso,grande,No Milk,0,473,15,0.0,0.0,0.0,0,15,3,0,0,225
+Espresso,venti,No Milk,0,709,25,0.0,0.0,0.0,0,20,3,0,0,300
 Caffè Latte,tall,Non-fat Milk,0,354,100,0.2,0.2,0.0,5,120,15,0,14,75
 Caffè Latte,tall,2% Milk,0,354,150,6.0,3.5,0.2,25,135,15,0,14,75
 Caffè Latte,tall,Whole Milk,0,354,180,9.0,5.0,0.3,30,125,15,0,14,75
@@ -285,10 +285,10 @@ Espresso,solo,No Milk,0,0,5,0.0,0.0,0.0,0,0,1,0,0,75
 Espresso,doppio,No Milk,0,0,10,0.0,0.0,0.0,0,0,2,0,0,150
 Espresso,triple,No Milk,0,0,15,0.0,0.0,0.0,0,0,3,0,0,225
 Espresso,quad,No Milk,0,0,20,0.0,0.0,0.0,0,0,4,0,0,300
-Espresso con panna,solo,No Milk,1,0,30,2.5,1.5,0.0,10,3,2,0,1,75
-Espresso con panna,doppio,No Milk,1,0,35,2.5,1.5,0.1,10,3,3,0,1,150
-Espresso con panna,triple,No Milk,1,0,40,2.5,1.5,0.1,10,0,4,0,1,225
-Espresso con panna,quad,No Milk,1,0,50,2.5,1.5,0.1,10,0,5,0,1,300
+Espresso Con Panna,solo,No Milk,1,0,30,2.5,1.5,0.0,10,3,2,0,1,75
+Espresso Con Panna,doppio,No Milk,1,0,35,2.5,1.5,0.1,10,3,3,0,1,150
+Espresso Con Panna,triple,No Milk,1,0,40,2.5,1.5,0.1,10,0,4,0,1,225
+Espresso Con Panna,quad,No Milk,1,0,50,2.5,1.5,0.1,10,0,5,0,1,300
 Espresso Macchiato,solo,Non-fat Milk,0,0,5,0.0,0.0,0.0,0,2,1,0,0,75
 Espresso Macchiato,solo,2% Milk,0,0,10,0.1,0.0,0.0,0,2,1,0,0,75
 Espresso Macchiato,solo,Whole Milk,0,0,10,0.1,0.1,0.0,0,2,1,0,0,75
@@ -363,21 +363,21 @@ Skinny Mocha,venti,Non-fat Milk,0,591,210,2.0,1.5,0.1,10,190,30,5,19,150
 Iced Skinny Mocha,tall,Non-fat Milk,0,354,90,1.0,0.5,0.1,5,75,13,3,7,75
 Iced Skinny Mocha,grande,Non-fat Milk,0,473,120,1.5,1.0,0.1,5,95,17,4,8,150
 Iced Skinny Mocha,venti,Non-fat Milk,0,709,170,2.5,1.5,0.1,5,130,25,6,11,225
-Starbucks Doubleshot on ice,tall,Non-fat Milk,0,354,70,0.0,0.0,0.0,0,35,14,0,13,150
-Starbucks Doubleshot on ice,tall,2% Milk,0,354,80,1.0,1.0,0.1,5,35,14,0,13,150
-Starbucks Doubleshot on ice,tall,Whole Milk,0,354,90,2.0,1.0,0.1,5,35,14,0,13,150
-Starbucks Doubleshot on ice,tall,Soy Milk,0,354,70,1.0,0.1,0.0,0,30,13,0,11,150
-Starbucks Doubleshot on ice,tall,Coconut Milk,0,354,70,1.5,1.5,0.0,0,30,13,0,12,150
-Starbucks Doubleshot on ice,grande,Non-fat Milk,0,473,90,0.0,0.0,0.0,0,35,20,0,18,225
-Starbucks Doubleshot on ice,grande,2% Milk,0,473,100,1.0,1.0,0.1,5,40,20,0,18,225
-Starbucks Doubleshot on ice,grande,Whole Milk,0,473,110,2.0,1.0,0.1,5,35,20,0,18,225
-Starbucks Doubleshot on ice,grande,Soy Milk,0,473,100,1.0,0.1,0.0,0,35,19,0,16,225
-Starbucks Doubleshot on ice,grande,Coconut Milk,0,473,90,1.5,1.5,0.0,0,35,19,0,17,225
-Starbucks Doubleshot on ice,venti,Non-fat Milk,0,709,150,0.1,0.1,0.0,0,50,33,0,29,375
-Starbucks Doubleshot on ice,venti,2% Milk,0,709,170,2.0,1.0,0.1,5,55,33,0,29,375
-Starbucks Doubleshot on ice,venti,Whole Milk,0,709,180,3.0,1.5,0.1,10,50,33,0,29,375
-Starbucks Doubleshot on ice,venti,Soy Milk,0,709,160,1.5,0.2,0.0,0,45,31,0,27,375
-Starbucks Doubleshot on ice,venti,Coconut Milk,0,709,150,2.0,2.0,0.0,0,50,32,0,28,375
+Starbucks Doubleshot On Ice,tall,Non-fat Milk,0,354,70,0.0,0.0,0.0,0,35,14,0,13,150
+Starbucks Doubleshot On Ice,tall,2% Milk,0,354,80,1.0,1.0,0.1,5,35,14,0,13,150
+Starbucks Doubleshot On Ice,tall,Whole Milk,0,354,90,2.0,1.0,0.1,5,35,14,0,13,150
+Starbucks Doubleshot On Ice,tall,Soy Milk,0,354,70,1.0,0.1,0.0,0,30,13,0,11,150
+Starbucks Doubleshot On Ice,tall,Coconut Milk,0,354,70,1.5,1.5,0.0,0,30,13,0,12,150
+Starbucks Doubleshot On Ice,grande,Non-fat Milk,0,473,90,0.0,0.0,0.0,0,35,20,0,18,225
+Starbucks Doubleshot On Ice,grande,2% Milk,0,473,100,1.0,1.0,0.1,5,40,20,0,18,225
+Starbucks Doubleshot On Ice,grande,Whole Milk,0,473,110,2.0,1.0,0.1,5,35,20,0,18,225
+Starbucks Doubleshot On Ice,grande,Soy Milk,0,473,100,1.0,0.1,0.0,0,35,19,0,16,225
+Starbucks Doubleshot On Ice,grande,Coconut Milk,0,473,90,1.5,1.5,0.0,0,35,19,0,17,225
+Starbucks Doubleshot On Ice,venti,Non-fat Milk,0,709,150,0.1,0.1,0.0,0,50,33,0,29,375
+Starbucks Doubleshot On Ice,venti,2% Milk,0,709,170,2.0,1.0,0.1,5,55,33,0,29,375
+Starbucks Doubleshot On Ice,venti,Whole Milk,0,709,180,3.0,1.5,0.1,10,50,33,0,29,375
+Starbucks Doubleshot On Ice,venti,Soy Milk,0,709,160,1.5,0.2,0.0,0,45,31,0,27,375
+Starbucks Doubleshot On Ice,venti,Coconut Milk,0,709,150,2.0,2.0,0.0,0,50,32,0,28,375
 White Chocolate Mocha,short,Non-fat Milk,0,236,180,3.0,2.5,0.0,5,115,30,0,29,75
 White Chocolate Mocha,short,Non-fat Milk,1,236,230,8.0,6.0,0.2,25,120,32,0,30,75
 White Chocolate Mocha,short,2% Milk,0,236,200,6.0,3.5,0.1,15,120,30,0,29,75
@@ -448,34 +448,34 @@ Iced White Chocolate Mocha,venti,Soy Milk,0,709,470,12.0,7.0,0.0,10,250,77,1,71,
 Iced White Chocolate Mocha,venti,Soy Milk,1,709,580,23.0,14.0,0.3,50,260,80,1,74,225
 Iced White Chocolate Mocha,venti,Coconut Milk,0,709,450,13.0,12.0,0.0,10,250,77,0,73,225
 Iced White Chocolate Mocha,venti,Coconut Milk,1,709,570,25.0,19.0,0.3,50,260,80,0,76,225
-Iced Black tea,tall,No Milk,0,354,60,0.0,0.0,0.0,0,5,15,0,15,25
-Iced Black tea,grande,No Milk,0,473,80,0.0,0.0,0.0,0,10,20,0,20,30
-Iced Black tea,venti,No Milk,0,709,120,0.0,0.0,0.0,0,15,30,0,30,45
-Iced Black tea,trenta,No Milk,0,887,140,0.0,0.0,0.0,0,20,35,0,34,55
-Iced Black tea Lemonade,grande,No Milk,0,473,90,0.0,0.0,0.0,0,5,24,0,24,25
-Iced Black tea Lemonade,venti,No Milk,0,591,120,0.0,0.0,0.0,0,5,32,0,32,30
-Iced Black tea Lemonade,venti,No Milk,0,709,190,0.0,0.0,0.0,0,10,48,0,47,45
-Iced Black tea Lemonade,trenta,No Milk,0,887,220,0.0,0.0,0.0,0,10,58,0,57,55
-Chai tea Latte,short,Non-fat Milk,0,236,100,0.1,0.1,0.0,0,50,22,0,21,50
-Chai tea Latte,short,2% Milk,0,236,120,2.0,1.0,0.1,10,55,22,0,21,50
-Chai tea Latte,short,Whole Milk,0,236,130,3.5,2.0,0.1,10,55,22,0,21,50
-Chai tea Latte,short,Soy Milk,0,236,110,1.5,0.2,0.0,0,45,20,0,18,50
-Chai tea Latte,short,Coconut Milk,0,236,100,2.5,2.5,0.0,0,50,21,0,19,50
-Chai tea Latte,tall,Non-fat Milk,0,354,160,0.2,0.1,0.0,5,80,34,0,32,70
-Chai tea Latte,tall,2% Milk,0,354,190,3.5,1.5,0.1,15,90,34,0,32,70
-Chai tea Latte,tall,Whole Milk,0,354,200,6.0,3.0,0.2,15,80,34,0,32,70
-Chai tea Latte,tall,Soy Milk,0,354,160,2.5,0.3,0.0,0,70,31,1,28,70
-Chai tea Latte,tall,Coconut Milk,0,354,160,3.5,3.5,0.0,0,75,31,0,29,70
-Chai tea Latte,grande,Non-fat Milk,0,473,210,0.2,0.1,0.0,5,10,45,0,43,95
-Chai tea Latte,grande,2% Milk,0,473,240,4.5,2.0,0.1,20,115,45,0,42,95
-Chai tea Latte,grande,Whole Milk,0,473,270,7.0,4.0,0.2,20,105,45,0,42,95
-Chai tea Latte,grande,Soy Milk,0,473,220,3.5,0.4,0.0,0,90,41,1,37,95
-Chai tea Latte,grande,Coconut Milk,0,473,210,4.5,4.5,0.0,0,95,41,0,39,95
-Chai tea Latte,venti,Non-fat Milk,0,591,260,0.3,0.2,0.0,5,135,57,0,54,120
-Chai tea Latte,venti,2% Milk,0,591,310,6.0,3.0,0.2,25,150,56,0,53,120
-Chai tea Latte,venti,Whole Milk,0,591,340,9.0,5.0,0.3,30,135,56,0,53,120
-Chai tea Latte,venti,Soy Milk,0,591,280,4.5,0.5,0.0,0,115,51,1,46,120
-Chai tea Latte,venti,Coconut Milk,0,591,260,6.0,6.0,0.0,0,120,52,0,48,120
+Iced Black Tea,tall,No Milk,0,354,60,0.0,0.0,0.0,0,5,15,0,15,25
+Iced Black Tea,grande,No Milk,0,473,80,0.0,0.0,0.0,0,10,20,0,20,30
+Iced Black Tea,venti,No Milk,0,709,120,0.0,0.0,0.0,0,15,30,0,30,45
+Iced Black Tea,trenta,No Milk,0,887,140,0.0,0.0,0.0,0,20,35,0,34,55
+Iced Black Tea Lemonade,grande,No Milk,0,473,90,0.0,0.0,0.0,0,5,24,0,24,25
+Iced Black Tea Lemonade,venti,No Milk,0,591,120,0.0,0.0,0.0,0,5,32,0,32,30
+Iced Black Tea Lemonade,venti,No Milk,0,709,190,0.0,0.0,0.0,0,10,48,0,47,45
+Iced Black Tea Lemonade,trenta,No Milk,0,887,220,0.0,0.0,0.0,0,10,58,0,57,55
+Chai Tea Latte,short,Non-fat Milk,0,236,100,0.1,0.1,0.0,0,50,22,0,21,50
+Chai Tea Latte,short,2% Milk,0,236,120,2.0,1.0,0.1,10,55,22,0,21,50
+Chai Tea Latte,short,Whole Milk,0,236,130,3.5,2.0,0.1,10,55,22,0,21,50
+Chai Tea Latte,short,Soy Milk,0,236,110,1.5,0.2,0.0,0,45,20,0,18,50
+Chai Tea Latte,short,Coconut Milk,0,236,100,2.5,2.5,0.0,0,50,21,0,19,50
+Chai Tea Latte,tall,Non-fat Milk,0,354,160,0.2,0.1,0.0,5,80,34,0,32,70
+Chai Tea Latte,tall,2% Milk,0,354,190,3.5,1.5,0.1,15,90,34,0,32,70
+Chai Tea Latte,tall,Whole Milk,0,354,200,6.0,3.0,0.2,15,80,34,0,32,70
+Chai Tea Latte,tall,Soy Milk,0,354,160,2.5,0.3,0.0,0,70,31,1,28,70
+Chai Tea Latte,tall,Coconut Milk,0,354,160,3.5,3.5,0.0,0,75,31,0,29,70
+Chai Tea Latte,grande,Non-fat Milk,0,473,210,0.2,0.1,0.0,5,10,45,0,43,95
+Chai Tea Latte,grande,2% Milk,0,473,240,4.5,2.0,0.1,20,115,45,0,42,95
+Chai Tea Latte,grande,Whole Milk,0,473,270,7.0,4.0,0.2,20,105,45,0,42,95
+Chai Tea Latte,grande,Soy Milk,0,473,220,3.5,0.4,0.0,0,90,41,1,37,95
+Chai Tea Latte,grande,Coconut Milk,0,473,210,4.5,4.5,0.0,0,95,41,0,39,95
+Chai Tea Latte,venti,Non-fat Milk,0,591,260,0.3,0.2,0.0,5,135,57,0,54,120
+Chai Tea Latte,venti,2% Milk,0,591,310,6.0,3.0,0.2,25,150,56,0,53,120
+Chai Tea Latte,venti,Whole Milk,0,591,340,9.0,5.0,0.3,30,135,56,0,53,120
+Chai Tea Latte,venti,Soy Milk,0,591,280,4.5,0.5,0.0,0,115,51,1,46,120
+Chai Tea Latte,venti,Coconut Milk,0,591,260,6.0,6.0,0.0,0,120,52,0,48,120
 Iced Chai Tea Latte,tall,Non-fat Milk,0,354,150,0.2,0.1,0.0,5,75,33,0,31,70
 Iced Chai Tea Latte,tall,2% Milk,0,354,180,3.0,1.5,0.1,10,80,33,0,31,70
 Iced Chai Tea Latte,tall,Whole Milk,0,354,190,5.0,3.0,0.1,15,75,33,0,31,70
@@ -495,10 +495,10 @@ Earl Grey Brewed Tea,short,No Milk,0,236,0,0.0,0.0,0.0,0,0,0,0,0,40
 Earl Grey Brewed Tea,tall,No Milk,0,354,0,0.0,0.0,0.0,0,0,0,0,0,40
 Earl Grey Brewed Tea,grande,No Milk,0,473,0,0.0,0.0,0.0,0,0,0,0,0,40
 Earl Grey Brewed Tea,venti,No Milk,0,591,0,0.0,0.0,0.0,0,0,0,0,0,40
-Emperor's Clouds and Mist Brewed Tea,short,No Milk,0,236,0,0.0,0.0,0.0,0,0,0,0,0,15
-Emperor's Clouds and Mist Brewed Tea,tall,No Milk,0,354,0,0.0,0.0,0.0,0,0,0,0,0,15
-Emperor's Clouds and Mist Brewed Tea,grande,No Milk,0,473,0,0.0,0.0,0.0,0,0,0,0,0,25
-Emperor's Clouds and Mist Brewed Tea,venti,No Milk,0,591,0,0.0,0.0,0.0,0,0,0,0,0,25
+Emperor'S Clouds And Mist Brewed Tea,short,No Milk,0,236,0,0.0,0.0,0.0,0,0,0,0,0,15
+Emperor'S Clouds And Mist Brewed Tea,tall,No Milk,0,354,0,0.0,0.0,0.0,0,0,0,0,0,15
+Emperor'S Clouds And Mist Brewed Tea,grande,No Milk,0,473,0,0.0,0.0,0.0,0,0,0,0,0,25
+Emperor'S Clouds And Mist Brewed Tea,venti,No Milk,0,591,0,0.0,0.0,0.0,0,0,0,0,0,25
 English Breakfast Black Brewed Tea,short,No Milk,0,236,0,0.0,0.0,0.0,0,0,0,0,0,40
 English Breakfast Black Brewed Tea,tall,No Milk,0,354,0,0.0,0.0,0.0,0,0,0,0,0,40
 English Breakfast Black Brewed Tea,grande,No Milk,0,473,0,0.0,0.0,0.0,0,0,0,0,0,40
@@ -566,10 +566,10 @@ Iced Green Tea Lemonade,tall,No Milk,0,354,90,0.0,0.0,0.0,0,5,24,0,24,25
 Iced Green Tea Lemonade,grande,No Milk,0,473,120,0.0,0.0,0.0,0,5,32,0,32,30
 Iced Green Tea Lemonade,venti,No Milk,0,709,190,0.0,0.0,0.0,0,10,48,0,47,45
 Iced Green Tea Lemonade,trenta,No Milk,0,887,220,0.0,0.0,0.0,0,10,58,0,57,55
-Jade Citrus Mint Brewed tea,short,No Milk,0,236,0,0.0,0.0,0.0,0,0,0,0,0,25
-Jade Citrus Mint Brewed tea,tall,No Milk,0,354,0,0.0,0.0,0.0,0,0,0,0,0,25
-Jade Citrus Mint Brewed tea,grande,No Milk,0,473,0,0.0,0.0,0.0,0,0,0,0,0,40
-Jade Citrus Mint Brewed tea,venti,No Milk,0,591,0,0.0,0.0,0.0,0,0,0,0,0,40
+Jade Citrus Mint Brewed Tea,short,No Milk,0,236,0,0.0,0.0,0.0,0,0,0,0,0,25
+Jade Citrus Mint Brewed Tea,tall,No Milk,0,354,0,0.0,0.0,0.0,0,0,0,0,0,25
+Jade Citrus Mint Brewed Tea,grande,No Milk,0,473,0,0.0,0.0,0.0,0,0,0,0,0,40
+Jade Citrus Mint Brewed Tea,venti,No Milk,0,591,0,0.0,0.0,0.0,0,0,0,0,0,40
 London Fog Tea Latte,short,Non-fat Milk,0,236,80,0.1,0.1,0.0,0,50,15,0,15,40
 London Fog Tea Latte,short,2% Milk,0,236,100,2.0,1.5,0.1,10,55,15,0,15,40
 London Fog Tea Latte,short,Whole Milk,0,236,110,3.5,2.0,0.1,10,50,15,0,15,40
@@ -1145,4 +1145,4 @@ White Hot Chocolate,venti,Coconut Milk,0,591,450,17.0,15.0,0.0,5,310,71,0,69,0
 White Hot Chocolate,venti,Coconut Milk,1,591,520,24.0,20.0,0.2,30,320,73,0,71,0
 Protein & Fibre Powder,1 scoop,No Milk,0,0,30,0.1,0.1,0.0,0,45,1,1,0,0
 Matcha Green Tea Powder,1 scoop,No Milk,0,0,25,0.1,0.0,0.0,0,0,6,0,5,25
-Espresso shot,1 shot,No Milk,0,0,5,0.1,0.0,0.0,0,0,1,0,0,75
+Espresso Shot,1 shot,No Milk,0,0,5,0.1,0.0,0.0,0,0,1,0,0,75
